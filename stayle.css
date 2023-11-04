@@ -1,0 +1,26 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+.content
+{
+    width: 1200px;
+    height: 600px;
+    border: 1px solid black;
+    background-color: antiquewhite;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.content .box
+{
+    width: 250px;
+    height: 220px;
+    border-radius: 15px;
+    border: 1px solid transparent;
+    background-color: #00ffa2;
+    margin-top: 190px;
+
+}
